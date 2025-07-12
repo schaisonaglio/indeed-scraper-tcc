@@ -1,0 +1,52 @@
+[
+  {
+    "salary": null,
+    "postedAt": "há 30+ dias",
+    "externalApplyLink": "https://www.selgron.com.br/institucional/trabalhe/159",
+    "positionName": "Desenvolvedor de Software - FPGA",
+    "jobType": [],
+    "company": "Selgron",
+    "location": "Blumenau, SC",
+    "rating": 2.5,
+    "reviewsCount": 2,
+    "urlInput": null,
+    "url": "https://br.indeed.com/viewjob?jk=e8e9aa56cfbeac72",
+    "id": "e8e9aa56cfbeac72",
+    "scrapedAt": "2025-06-21T10:54:57.026Z",
+    "postingDateParsed": "2024-12-16T14:21:29.793Z",
+    "description": "Desenvolvedor de Software - FPGA\n\nSe você é apaixonado(a) por tecnologia de ponta e deseja aplicar suas habilidades no desenvolvimento de soluções em FPGA, temos a oportunidade ideal para você!\n\nPrincipais Atividades\n\nDesenvolver e implementar soluções em FPGA para sistemas de automação industrial;\n\nProjetar, simular, testar e validar códigos em HDL (Verilog/VHDL);\n\nColaborar com equipes de hardware e software para integração de sistemas;\n\nDiagnosticar problemas e otimizar projetos existentes;\n\nDocumentar processos de desenvolvimento, incluindo testes e validações.\n\nRequisitos\n\nGraduação completa em Engenharia Eletrônica, Engenharia de Computação ou áreas correlatas;\nExperiência comprovada no desenvolvimento de FPGA, incluindo design e implementação em Verilog e/ou VHDL;\nFamiliaridade com ferramentas de simulação e validação de hardware;\nCapacidade de interpretar e elaborar esquemas eletrônicos;\nInglês técnico para leitura e escrita.\n\nDiferenciais\n\nConhecimento em programação C/C++ para sistemas embarcados;\nFamiliaridade com phyton;\nVivência em projetos de integração entre hardware e software;\nPós-graduação ou certificações na área de desenvolvimento de FPGA ou sistemas embarcados.\n\n* Esta vaga também está disponível para PCD.",
+    "descriptionHTML": "<div><h1 class=\"jobSectionHeader\"><b>Desenvolvedor de Software - FPGA</b></h1>\n<p>Se voc&ecirc; &eacute; apaixonado(a) por tecnologia de ponta e deseja aplicar suas habilidades no desenvolvimento de solu&ccedil;&otilde;es em FPGA, temos a oportunidade ideal para voc&ecirc;!<br>\n<br>\n<b>Principais Atividades</b></p>\n<ul><li><p>Desenvolver e implementar solu&ccedil;&otilde;es em FPGA para sistemas de automa&ccedil;&atilde;o industrial;</p>\n</li><li><p>Projetar, simular, testar e validar c&oacute;digos em HDL (Verilog/VHDL);</p>\n</li><li><p>Colaborar com equipes de hardware e software para integra&ccedil;&atilde;o de sistemas;</p>\n</li><li><p>Diagnosticar problemas e otimizar projetos existentes;</p>\n</li><li><p>Documentar processos de desenvolvimento, incluindo testes e valida&ccedil;&otilde;es.</p>\n</li></ul><p><b>Requisitos</b></p>\n<div><ul><li>Gradua&ccedil;&atilde;o completa em Engenharia Eletr&ocirc;nica, Engenharia de Computa&ccedil;&atilde;o ou &aacute;reas correlatas;</li>\n<li>Experi&ecirc;ncia comprovada no desenvolvimento de FPGA, incluindo design e implementa&ccedil;&atilde;o em Verilog e/ou VHDL;</li>\n<li>Familiaridade com ferramentas de simula&ccedil;&atilde;o e valida&ccedil;&atilde;o de hardware;</li>\n<li>Capacidade de interpretar e elaborar esquemas eletr&ocirc;nicos;</li>\n<li>Ingl&ecirc;s t&eacute;cnico para leitura e escrita.</li>\n</ul>\n<p><b>Diferenciais</b></p>\n<div><ul><li>Conhecimento em programa&ccedil;&atilde;o C/C++ para sistemas embarcados;</li>\n<li>Familiaridade com phyton;</li>\n<li>Viv&ecirc;ncia em projetos de integra&ccedil;&atilde;o entre hardware e software;</li>\n<li>P&oacute;s-gradua&ccedil;&atilde;o ou certifica&ccedil;&otilde;es na &aacute;rea de desenvolvimento de FPGA ou sistemas embarcados.</li>\n</ul>\n<ul><li>Esta vaga tamb&eacute;m est&aacute; dispon&iacute;vel para PCD.</li></ul></div></div></div>",
+    "searchInput": {
+      "position": "VHDL",
+      "location": "Santa Catarina",
+      "country": "BR"
+    },
+    "isExpired": false
+  },
+  {
+    "salary": "R$ 1.649,52 – R$ 4.288,69 por mês",
+    "postedAt": "há 30+ dias",
+    "externalApplyLink": null,
+    "positionName": "00010/2025 - Bolsista Pesquisador - Firmware",
+    "jobType": [
+      "Meio período"
+    ],
+    "company": "FIESC",
+    "location": "Florianópolis, SC",
+    "rating": 4.1,
+    "reviewsCount": 18,
+    "urlInput": null,
+    "url": "https://br.indeed.com/viewjob?jk=fcf64bb5d50575bc",
+    "id": "fcf64bb5d50575bc",
+    "scrapedAt": "2025-06-21T10:55:38.143Z",
+    "postingDateParsed": "2025-03-07T19:06:58.850Z",
+    "description": "CHAMADA PARA SELEÇÃO DE BOLSISTA - Nº 00010/2025 - Bolsista Pesquisador - Firmware\nO Serviço Nacional de Aprendizagem Industrial – Departamento Regional de Santa Catarina torna pública a presente Chamada para Seleção de Bolsistas e convoca os interessados a se candidatarem, conforme os critérios aqui estabelecidos.\n\nNível de formação: Graduado em andamento, Mestrado em andamento, Doutorado em andamento.\nFormação: Nas áreas, Ciência da computação e áreas correlatas.\n\nRequisitos Necessários:\nConhecimento em FPGA e HDL (Verilog/VHDL);\nProcessamento Digital de Sinais (DSP) (FFT, filtros FIR/IIR, modulação/demodulação, etc.);\nSistemas de comunicação sem fio (modulações, codificação de canal, protocolos);\nUtilização de ferramentas de desenvolvimento FPGA Xilinx;\nInterface com ADCs/DACs (alta velocidade, LVDS);\nUso do Git e plataformas como GitHub ou GitLab para controle de versão.\n\nConhecimentos desejáveis:\nDepuração e testes em hardware (uso de osciloscópio, analisador lógico, geradores de sinal);\nProgramação de scripts para automação (Python, Tcl, Shell);\nArquiteturas de SDR (Software Defined Radio);\nUso de IPs de processamento de sinais da Xilinx (ex.: DSP48, HLS para DSP);\nC/C++ para desenvolvimento de software embarcado em SoCs FPGA;\nImplementação de aceleradores de hardware para algoritmos de DSP;\nIntegração com sistemas embarcados rodando Linux (ex.: Zynq, Zynq MPSoC);\nConhecimento em trabalhos acadêmicos ou projetos de pesquisa.\n\nDescrição e Objetivos do Projeto de PD&I:\nDesenvolvimento de IP Block de processamento digital de sinais em FPGA para aplicações de comunicações sem fio.\n\nÁrea Tecnológica predominante no projeto: Firmware\n\nTítulo do Plano de Trabalho:\nFirmware\n\nGraduado em andamento R$ 1.649,52\nCarga horária: 6 horas diárias, 30h semanais, 180h mensais.\n\nMestrado em andamento R$ 2.519,25\nCarga horária: 6 horas diárias, 30h semanais, 180h mensais.\n\nDoutorado em andamento R$ 4.288,69\nCarga horária: 6 horas diárias, 30h semanais, 180h mensais.\n\nMétodo de Trabalho: Home Office\nEm caso de convocação e posterior admissão, o candidato deverá ter:\nNotebook para executar as atividades do cargo.\n\nPeríodo da Vigência da Bolsa: 12 meses - * com possibilidade de prorrogação de acordo com a continuidade do projeto.\n\nLocal: Instituto SENAI de Inovação em Sistemas Embarcados.\nEndereço: Avenida Luiz Boiteux Piazza, 574 - Cachoeira do Bom Jesus, Florianópolis, SC, 88032-005\n\nResponsável: Eliziane Almeida\ninstitutos@sc.senai.br\n\nEscolaridade Mínima: Ensino Superior",
+    "descriptionHTML": "CHAMADA PARA SELEÇÃO DE BOLSISTA - Nº 00010/2025 - Bolsista Pesquisador - Firmware\n<br>O Serviço Nacional de Aprendizagem Industrial – Departamento Regional de Santa Catarina torna pública a presente Chamada para Seleção de Bolsistas e convoca os interessados a se candidatarem, conforme os critérios aqui estabelecidos.\n<br><br>\n<b>Nível de formação:</b> Graduado em andamento, Mestrado em andamento, Doutorado em andamento.\n<br><b>Formação:</b> Nas áreas, Ciência da computação e áreas correlatas.\n<br><br>\n<b>Requisitos Necessários:</b><br>\nConhecimento em FPGA e HDL (Verilog/VHDL);\n<br>Processamento Digital de Sinais (DSP) (FFT, filtros FIR/IIR, modulação/demodulação, etc.);\n<br>Sistemas de comunicação sem fio (modulações, codificação de canal, protocolos);\n<br>Utilização de ferramentas de desenvolvimento FPGA Xilinx;\n<br>Interface com ADCs/DACs (alta velocidade, LVDS);\n<br>Uso do Git e plataformas como GitHub ou GitLab para controle de versão.\n<br><br>\n<b>Conhecimentos desejáveis:</b><br>\nDepuração e testes em hardware (uso de osciloscópio, analisador lógico, geradores de sinal);\n<br>Programação de scripts para automação (Python, Tcl, Shell);\n<br>Arquiteturas de SDR (Software Defined Radio);\n<br><b>Uso de IPs de processamento de sinais da Xilinx (ex.:</b> DSP48, HLS para DSP);\n<br>C/C++ para desenvolvimento de software embarcado em SoCs FPGA;\n<br>Implementação de aceleradores de hardware para algoritmos de DSP;\n<br><b>Integração com sistemas embarcados rodando Linux (ex.:</b> Zynq, Zynq MPSoC);\n<br>Conhecimento em trabalhos acadêmicos ou projetos de pesquisa.\n<br><br>\n<b>Descrição e Objetivos do Projeto de PD&I:</b><br>\nDesenvolvimento de IP Block de processamento digital de sinais em FPGA para aplicações de comunicações sem fio.\n<br><br>\n<b>Área Tecnológica predominante no projeto:</b> Firmware\n<br><br>\n<b>Título do Plano de Trabalho:</b><br>\nFirmware\n<br><br>\nGraduado em andamento R$ 1.649,52\n<br><b>Carga horária:</b> 6 horas diárias, 30h semanais, 180h mensais.\n<br><br>\nMestrado em andamento R$ 2.519,25\n<br><b>Carga horária:</b> 6 horas diárias, 30h semanais, 180h mensais.\n<br><br>\nDoutorado em andamento R$ 4.288,69\n<br><b>Carga horária:</b> 6 horas diárias, 30h semanais, 180h mensais.\n<br><br>\n<b>Método de Trabalho:</b> Home Office\n<br>Em caso de convocação e posterior admissão, o candidato deverá ter:\n<br>Notebook para executar as atividades do cargo.\n<br><br>\n<b>Período da Vigência da Bolsa:</b> 12 meses - * com possibilidade de prorrogação de acordo com a continuidade do projeto.\n<br><br>\n<b>Local:</b> Instituto SENAI de Inovação em Sistemas Embarcados.\n<br><b>Endereço:</b> Avenida Luiz Boiteux Piazza, 574 - Cachoeira do Bom Jesus, Florianópolis, SC, 88032-005\n<br><br>\n<b>Responsável:</b> Eliziane Almeida\n<br>institutos@sc.senai.br\n<br><br>\n<b>Escolaridade Mínima:</b> Ensino Superior",
+    "searchInput": {
+      "position": "VHDL",
+      "location": "Santa Catarina",
+      "country": "BR"
+    },
+    "isExpired": false
+  }
+]

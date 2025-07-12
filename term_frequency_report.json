@@ -1,0 +1,1127 @@
+[
+  {
+    "term": "Radiodifusão",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Rádio enlace",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Ponto a ponto",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Ponto multiponto",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Multiponto",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "DWDM",
+    "match_count": 3,
+    "unique_jobs": 1
+  },
+  {
+    "term": "CWDM",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "GPON",
+    "match_count": 18,
+    "unique_jobs": 6
+  },
+  {
+    "term": "Regulamentação ANATEL",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Antenas de alta frequência",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Projeto de antenas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Micro-ondas",
+    "match_count": 6,
+    "unique_jobs": 5
+  },
+  {
+    "term": "Miniaturização de antenas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Antenas microstrip",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Smart antennas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Antenas fractais",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Medições de antenas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sistemas de comunicações RF",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Comunicações móveis",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Engenharia de radiofrequência",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "RF design",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Microwave engineering",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "High-frequency measurements",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sistemas de radar",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar CW",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar pulsado",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Phased array SAR",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sinais de RF CW",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sinais de RF pulsado",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar secundário",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar naval",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar aéreo",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar satelital",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar ambiental",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar militar",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar geográfico",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Radar para policiamento",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Análise de sinais de radar",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Especificação de sistemas de radar",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Comunicações via satélite",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sistemas satelitais",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Segmento espacial",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Segmento terrestre",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Link budget",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Enlace satelital",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Cubesats",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Nanosatélites",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Satélites de relay",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Payload de satélites",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Bus de satélites",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Aplicações satelitais",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Engenharia de micro-ondas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Parâmetros de espalhamento",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Carta de Smith",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Transformação de impedância",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Circuitos em micro-ondas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Ressonadores",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Acopladores direcionais",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Filtros de micro-ondas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Estruturas periódicas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Amplificadores de micro-ondas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Osciladores de micro-ondas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Simulação de RF",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Ferramentas de simulação (HFSS, CST, ADS)",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Análise de circuitos de alta frequência",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Desempenho de redes",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Teoria de filas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Cadeias de Markov",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Simulação a eventos discretos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Simulação por eventos discretos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Geração de números randômicos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Medição ativa e passiva",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Simuladores de redes",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Tuning de parâmetros de rede",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Modelagem analítica",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "NS-3",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "OMNeT++",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Planejamento de capacidade de redes",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Análise preditiva de redes",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Internet das Coisas",
+    "match_count": 2,
+    "unique_jobs": 1
+  },
+  {
+    "term": "IoT",
+    "match_count": 50,
+    "unique_jobs": 16
+  },
+  {
+    "term": "Arquitetura de dispositivos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Conectividade IoT",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "MQTT",
+    "match_count": 32,
+    "unique_jobs": 6
+  },
+  {
+    "term": "CoAP",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Hardware embarcado",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sensores e atuadores",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Redes de sensores sem fio",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "AWS IoT",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Azure IoT",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Desenvolvimento de aplicações IoT",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Teoria dos grafos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Percurso euleriano",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Percurso hamiltoniano",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Árvores geradoras mínimas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Árvore de extensão mínima",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "AGM",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Coloração de grafos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Redes de fluxo",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Fluxo máximo",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Fluxo com custo",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Banco de dados relacional",
+    "match_count": 28,
+    "unique_jobs": 13
+  },
+  {
+    "term": "RDBMS",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Modelagem de dados",
+    "match_count": 24,
+    "unique_jobs": 18
+  },
+  {
+    "term": "Álgebra relacional",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "SQL",
+    "match_count": 319,
+    "unique_jobs": 150
+  },
+  {
+    "term": "Normalização",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "SGBD",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "PostgreSQL",
+    "match_count": 116,
+    "unique_jobs": 55
+  },
+  {
+    "term": "MySQL",
+    "match_count": 85,
+    "unique_jobs": 45
+  },
+  {
+    "term": "SQLite",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Desenvolvimento com banco de dados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Aplicações desktop e web com banco de dados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Bancos de dados NoSQL",
+    "match_count": 2,
+    "unique_jobs": 1
+  },
+  {
+    "term": "MongoDB",
+    "match_count": 72,
+    "unique_jobs": 27
+  },
+  {
+    "term": "Administração de banco de dados",
+    "match_count": 1,
+    "unique_jobs": 1
+  },
+  {
+    "term": "Design de banco de dados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Otimização de queries",
+    "match_count": 10,
+    "unique_jobs": 6
+  },
+  {
+    "term": "Engenharia de software",
+    "match_count": 114,
+    "unique_jobs": 46
+  },
+  {
+    "term": "Análise orientada a objetos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Projeto orientado a objetos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "UML",
+    "match_count": 8,
+    "unique_jobs": 4
+  },
+  {
+    "term": "Modelagem de software",
+    "match_count": 2,
+    "unique_jobs": 1
+  },
+  {
+    "term": "Levantamento de requisitos",
+    "match_count": 51,
+    "unique_jobs": 21
+  },
+  {
+    "term": "Casos de uso",
+    "match_count": 8,
+    "unique_jobs": 5
+  },
+  {
+    "term": "Arquitetura de software",
+    "match_count": 49,
+    "unique_jobs": 22
+  },
+  {
+    "term": "Padrões de projeto",
+    "match_count": 22,
+    "unique_jobs": 8
+  },
+  {
+    "term": "Frameworks",
+    "match_count": 166,
+    "unique_jobs": 71
+  },
+  {
+    "term": "Desenvolvimento ágil",
+    "match_count": 17,
+    "unique_jobs": 8
+  },
+  {
+    "term": "Metodologias ágeis",
+    "match_count": 255,
+    "unique_jobs": 114
+  },
+  {
+    "term": "Scrum",
+    "match_count": 239,
+    "unique_jobs": 103
+  },
+  {
+    "term": "Kanban",
+    "match_count": 191,
+    "unique_jobs": 82
+  },
+  {
+    "term": "Testes de software",
+    "match_count": 15,
+    "unique_jobs": 10
+  },
+  {
+    "term": "Gerenciamento de projetos de software",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Inteligência artificial",
+    "match_count": 76,
+    "unique_jobs": 31
+  },
+  {
+    "term": "Aprendizado de máquina",
+    "match_count": 5,
+    "unique_jobs": 4
+  },
+  {
+    "term": "Machine learning",
+    "match_count": 29,
+    "unique_jobs": 20
+  },
+  {
+    "term": "Deep learning",
+    "match_count": 8,
+    "unique_jobs": 6
+  },
+  {
+    "term": "Preparação de dados",
+    "match_count": 1,
+    "unique_jobs": 1
+  },
+  {
+    "term": "Análise de dados",
+    "match_count": 82,
+    "unique_jobs": 63
+  },
+  {
+    "term": "Modelos preditivos",
+    "match_count": 9,
+    "unique_jobs": 6
+  },
+  {
+    "term": "TensorFlow",
+    "match_count": 7,
+    "unique_jobs": 5
+  },
+  {
+    "term": "PyTorch",
+    "match_count": 7,
+    "unique_jobs": 5
+  },
+  {
+    "term": "Scikit-learn",
+    "match_count": 4,
+    "unique_jobs": 3
+  },
+  {
+    "term": "Avaliação de modelos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Agentes inteligentes",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Classificação",
+    "match_count": 8,
+    "unique_jobs": 5
+  },
+  {
+    "term": "Regressão",
+    "match_count": 11,
+    "unique_jobs": 4
+  },
+  {
+    "term": "Redes neurais artificiais",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Algoritmos supervisionados e não supervisionados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Projeto de protocolos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Especificação de protocolos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Comunicação de rede",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Máquinas de estados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "FSM",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Modelagem de protocolos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Codificação de mensagens",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Programação assíncrona",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Model checking",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Verificação formal",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Protocolos de comunicação",
+    "match_count": 41,
+    "unique_jobs": 12
+  },
+  {
+    "term": "Implementação de protocolos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Propriedades de protocolos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Redes de computadores",
+    "match_count": 96,
+    "unique_jobs": 32
+  },
+  {
+    "term": "Protocolos personalizados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Técnicas de modelagem de protocolos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Sistemas de controle",
+    "match_count": 34,
+    "unique_jobs": 16
+  },
+  {
+    "term": "Controle clássico",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Controle digital",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Análise de sistemas",
+    "match_count": 20,
+    "unique_jobs": 10
+  },
+  {
+    "term": "Resposta transitória",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Resposta em regime permanente",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Lugar das raízes",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Resposta em frequência",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Controladores PID",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Espaço de estados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Projeto de controle",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Simulação de sistemas de controle",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Matlab",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Simulink",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Compatibilidade eletromagnética",
+    "match_count": 3,
+    "unique_jobs": 1
+  },
+  {
+    "term": "CEM",
+    "match_count": 2,
+    "unique_jobs": 2
+  },
+  {
+    "term": "Interferência eletromagnética",
+    "match_count": 16,
+    "unique_jobs": 2
+  },
+  {
+    "term": "EMI",
+    "match_count": 48,
+    "unique_jobs": 4
+  },
+  {
+    "term": "Emissões irradiadas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Emissões conduzidas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Suscetibilidade eletromagnética",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Blindagem eletromagnética",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Diafonia",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Descargas eletrostáticas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Normas EMC",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Medições eletromagnéticas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Espectro eletromagnético",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Princípios eletromagnéticos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Eletrônica de potência",
+    "match_count": 16,
+    "unique_jobs": 3
+  },
+  {
+    "term": "Conversores estáticos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Retificadores monofásicos e trifásicos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Variadores de tensão",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "CA-CC",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "CA-CA",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "CC-CC",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "CC-CA",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "MOSFET",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "IGBT",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Tiristores",
+    "match_count": 7,
+    "unique_jobs": 1
+  },
+  {
+    "term": "Fontes chaveadas",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Filtros ativos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "UPS",
+    "match_count": 8,
+    "unique_jobs": 7
+  },
+  {
+    "term": "Correção de fator de potência",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Acionamento de motores",
+    "match_count": 36,
+    "unique_jobs": 3
+  },
+  {
+    "term": "Inversores de frequência",
+    "match_count": 31,
+    "unique_jobs": 14
+  },
+  {
+    "term": "Simulação de conversores",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Reatores eletrônicos",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Teoria da informação",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Codificação de fonte",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Codificação de canal",
+    "match_count": 18,
+    "unique_jobs": 1
+  },
+  {
+    "term": "Códigos corretores de erro",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Shannon",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Capacidade do canal",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Entropia",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Compressão de dados",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Detecção e correção de erros",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Códigos de Hamming",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Códigos convolucionais",
+    "match_count": 0,
+    "unique_jobs": 0
+  },
+  {
+    "term": "Códigos LDPC",
+    "match_count": 0,
+    "unique_jobs": 0
+  }
+]
